@@ -4,4 +4,6 @@
 
 - GIT 초기화
 
-- GIT CC
+- GIT repo 생성
+
+
