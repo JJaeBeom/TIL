@@ -1,4 +1,4 @@
-# 첫 Github
+# GitHub Intro
 
 ## README 생성
 
@@ -30,13 +30,19 @@ remote repo, 즉 github이나 gitlab과 같은 원격 저장소에 있는 reposi
 - git remote rm origin ( 참고로 origin은 default처럼 사용하는 이름이고 따로 설정할 수도 있긴 하다 )
   - rm은 remove의 의미
 
-git push origin master
+**git push origin master**
 
  origin 주소에 master가 작업한 결과를 업로드
 
 자격 증명 관리자 <<  windows 자격증명 - 일반자격증명- 
 
 
+
+토큰 설정방법-: 얼굴-셋팅즈- 사이드바 최하단 -  디벨로퍼 셋팅즈 - 펄스널 엑세스 토큰 - 토큰 클래식
+
+
+
+ add > commit > push
 
 ## 새로운 수정 사항
 
